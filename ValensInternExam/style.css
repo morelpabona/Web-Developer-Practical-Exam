@@ -1,0 +1,95 @@
+
+.nocoloimg {
+    height: 30%;
+    width: 30%;
+}
+li{
+    padding-left: 15px;
+}
+
+#activePaintJobsList {
+    list-style-type: none;
+    display: flex;
+    
+  }
+  
+  #activePaintJobsList li {
+    margin-right: 
+  }
+
+#orangecol {
+    list-style: none;
+    padding: 0;
+    
+    
+}
+img{
+    height: 400px;
+ 
+ 
+}
+#imageContainer{
+    width: 150px;
+    margin-right: 500px;
+}
+
+.paint ul li {
+    background-color:rgb(221, 221, 221);
+ }
+ .paint1 ul li {
+    background-color:rgb(221, 221, 221);
+ }
+
+ #paint2 .paint3 li {
+    list-style: none;
+    background-color:rgb(223, 105, 91);
+
+ }
+ 
+#button{
+    background-color:rgb(223, 105, 91);
+    border: 0px;
+    padding: 7px;
+    width: 100px;
+    margin-top: 10px;
+    margin-left: 10px;
+    color: antiquewhite;
+}
+#paint1list{
+    list-style: none;
+    display: flex;
+    padding-bottom: 5px;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+#activePaintJobsList li,
+#paint1list li {
+    border-bottom: 1px solid #000; /* You can adjust the color and thickness */
+
+   
+}
+#navi {
+    background-color: rgb(233, 105, 91);
+    width: 500px;
+}
+
+    
+.paint ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    padding-bottom: 5px;
+    justify-content: center;
+    align-items: center;
+
+}
+.paint ul li {
+    
+    padding-right: 50px;
+ 
+
+}
+
+
